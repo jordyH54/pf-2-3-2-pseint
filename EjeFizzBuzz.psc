@@ -1,7 +1,7 @@
 Algoritmo EjeFizzBuzz
     Definir i Como Entero;
 	
-    Para i <- 1 Hasta 50 Hacer
+    Para i <- 1 Hasta 100 Hacer
         //los numeros multiplos de 3 y asu vez de 5 son FizzBuzz
         Si (i % 3 = 0) Y (i % 5 = 0) Entonces
             Escribir i, " Es FizzBuzz";
